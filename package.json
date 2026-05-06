@@ -1,0 +1,27 @@
+{
+  "name": "node_learning",
+  "version": "1.0.0",
+  "description": "Node js learning",
+  "main": "coreModules.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashBhawsar-18/node_learning.git"
+  },
+  "keywords": [
+    "Node",
+    "learning",
+    "yash"
+  ],
+  "author": "YashBhawsar-systango",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YashBhawsar-18/node_learning/issues"
+  },
+  "homepage": "https://github.com/YashBhawsar-18/node_learning#readme",
+  "dependencies": {
+    "axios": "^1.16.0"
+  }
+}
