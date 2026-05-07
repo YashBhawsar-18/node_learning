@@ -23,5 +23,7 @@ if(action === 'create') {
     console.log("Invalid action. Please use 'create' or 'delete'."); // this will print an error message if the action passed by the user is not "create" or "delete". For example, if we run the command "node input.js update myFile.txt Hello World", it will print "Invalid action. Please use 'create' or 'delete'."
 }
 
+console.log(process.argv);
+
 // command to run the program: node input.js create input.txt "this is my first file created by command line input"
 // npx nodemon input.js create input.txt "this is my first file created by command line input"
